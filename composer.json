@@ -1,0 +1,16 @@
+{
+    "name": "lucid/binary-aggregation-tree",
+    "description": "Aggregation binary tree",
+    "authors": [
+        {
+            "name": "K3kan",
+            "email": "aintbor@gmail.com"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+        "Binary\\Aggregation\\Tree\\": "src"
+    }
+  },
+    "require": {}
+}
